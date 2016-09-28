@@ -17,7 +17,7 @@ The resulting version will be
         org.gxt.adapters.highcharts-3.2.99.jar
                                     ^ ^  ^
                                     | |  |
-             GXT MAJOR VERSION  --+ | |
+             GXT MAJOR VERSION    --+ |  |
      Highcharts-JS MAJOR VERSION  ----+  |
 Highcharts-GXT internal VERSION   -------+
 </pre>
