@@ -13,9 +13,11 @@ The versioning notation on highcharts-gxt releases is a mixture of:
 - Highcharts-JS Major version (e.g. 2.x)
 - Highcharts-GXT adapter internal version (e.g. 99)
 The resulting version will be
+<pre>
         org.gxt.adapters.highcharts-3.2.99.jar
                                     ^ ^  ^
                                     | |  |
                GXT MAJOR VERSION  --+ |  |
      Highcharts-JS MAJOR VERSION  ----+  |
  Highcharts-GXT internal VERSION  -------+
+</pre>
