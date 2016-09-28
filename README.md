@@ -19,5 +19,5 @@ The resulting version will be
                                     | |  |
              GXT MAJOR VERSION    --+ |  |
      Highcharts-JS MAJOR VERSION  ----+  |
-Highcharts-GXT internal VERSION   -------+
+Highcharts-GXT internal VERSION   ---+
 </pre>
